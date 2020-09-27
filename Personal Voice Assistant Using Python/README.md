@@ -2,7 +2,7 @@
 
 ### Objective: To build a voice assistant which is capable to perform:
 1. Greet user according to time
-2. Asking for commands
+2. Asking for commands (like 'open notepad' etc.)
 3. Able to navigate on browser (e.g.Wikipedia, YouTube, Gmail, Github etc.)
 4. Send email to recipient
 5. Read out the results from Wikipedia
