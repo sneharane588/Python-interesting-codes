@@ -10,6 +10,6 @@
 
 ### Libraries used: speech_recognition, pyttsx3, datetime, wikipedia, webbrowser
 
-## Check out the Video for to see output :   
+## Check out the follwing video for to see output :   
 
 [![](https://cdn.dribbble.com/users/846370/screenshots/8331367/voice_ui_logo.jpg)](https://www.youtube.com/embed/2mfKQL5mjEk)
