@@ -1,4 +1,4 @@
-# Xenia - Personal Voice Assistant using Python and Google API for Speech Recognition
+# Xenia - Personal Voice Assistant using Python and Microsoft Speech API for Speech Recognition
 
 ### Objective: To build a voice assistant which is capable to perform:
 1. Greet user according to time
